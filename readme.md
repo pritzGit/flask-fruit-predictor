@@ -118,16 +118,6 @@ fruit-genius/
 
 ---
 
-## 🖼️ Screenshots
-
-### 🌟 Homepage
-![Homepage](https://via.placeholder.com/800x400.png?text=Fruit+Genius+Homepage)
-
-### ✅ Prediction Result
-![Prediction](https://via.placeholder.com/800x400.png?text=Predicted+Fruit+Type)
-
----
-
 ## 👨‍💻 Contribution Guidelines
 
 We welcome contributions! 🚀  

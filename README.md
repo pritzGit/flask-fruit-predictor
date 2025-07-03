@@ -42,24 +42,24 @@ It’s a small-scale but fully functional project that blends data science and w
 
 ## Installation
 
-### 1 Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/fruit-genius.git
 cd fruit-genius
 ```
 
-### 2 Create a virtual environment
+### 2. Create a virtual environment
 ```bash
 python3 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 ```
 
-### 3 Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4 Train the model
+### 4. Train the model
 ```bash
 python train_model.py
 ```

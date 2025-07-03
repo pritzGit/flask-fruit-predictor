@@ -118,6 +118,14 @@ fruit-genius/
 
 ---
 
+🖼️ Screenshots
+
+🌟 Homepage
+
+![Screenshot](assets/screenshot.png)
+
+---
+
 ## 👨‍💻 Contribution Guidelines
 
 We welcome contributions! 🚀  

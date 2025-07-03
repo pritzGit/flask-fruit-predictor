@@ -6,19 +6,19 @@ Predict the type of a fruit based on its name using machine learning (Naive Baye
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The **goal** of Fruit Genius is to:  
 
-✅ Provide an easy-to-use ML-powered app for fruit type prediction.  
-✅ Train and deploy a text classifier model in a real web app.  
-✅ Demonstrate how to take a Python ML model from local development to production (Render deployment).  
+-> Provide an easy-to-use ML-powered app for fruit type prediction.  
+-> Train and deploy a text classifier model in a real web app.  
+-> Demonstrate how to take a Python ML model from local development to production (Render deployment).  
 
 It’s a small-scale but fully functional project that blends data science and web development in one.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Flask** – lightweight web framework for backend
@@ -30,43 +30,43 @@ It’s a small-scale but fully functional project that blends data science and w
 
 ---
 
-## 🗝️ Key Features
+## Key Features
 
-✅ Predicts fruit type based on the name (Citrus, Berry, Tropical, etc.)  
-✅ Handles unknown fruit names gracefully (returns `None`)  
-✅ Mobile-responsive, dark-themed UI with glowing buttons  
-✅ Deployable anywhere with a `render.yaml` file  
-✅ Includes a simple training script (`train_model.py`)  
+-> Predicts fruit type based on the name (Citrus, Berry, Tropical, etc.)  
+-> Handles unknown fruit names gracefully (returns `None`)  
+-> Mobile-responsive, dark-themed UI with glowing buttons  
+-> Deployable anywhere with a `render.yaml` file  
+-> Includes a simple training script (`train_model.py`)  
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 ```bash
 git clone https://github.com/yourusername/fruit-genius.git
 cd fruit-genius
 ```
 
-### 2️⃣ Create a virtual environment
+### 2 Create a virtual environment
 ```bash
 python3 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 ```
 
-### 3️⃣ Install dependencies
+### 3 Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Train the model
+### 4 Train the model
 ```bash
 python train_model.py
 ```
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Start the Flask app:  
 
@@ -79,7 +79,7 @@ The app will be available at:
 
 ---
 
-## 🌐 Deployment (Render)
+## Deployment (Render)
 
 1. Push your code to GitHub.  
 2. Go to [Render.com](https://render.com) and create a new **Web Service**.  
@@ -95,11 +95,11 @@ environment:
 ```
 5. Deploy and get your live URL!  
 
-👉 **Deployed Example:** [https://fruit-genius.onrender.com](https://fruit-genius.onrender.com)
+**Deployed Example:** [https://fruit-genius.onrender.com](https://fruit-genius.onrender.com)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fruit-genius/
@@ -118,15 +118,15 @@ fruit-genius/
 
 ---
 
-🖼️ Screenshots
+Screenshots
 
-🌟 Homepage
+Homepage
 
 ![Screenshot](assets/screenshot.png)
 
 ---
 
-## 👨‍💻 Contribution Guidelines
+## Contribution Guidelines
 
 We welcome contributions! 🚀  
 
@@ -147,13 +147,13 @@ We welcome contributions! 🚀
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License © 2025 PritZ (https://github.com/pritzGit)
 
 ---
 
-## 🌟 Credits
+## Credits
 
 Made with ❤️ by PritZ (https://github.com/pritzGit)  
-Powered by Flask + scikit-learn 🍍
+Powered by Flask + scikit-learn
